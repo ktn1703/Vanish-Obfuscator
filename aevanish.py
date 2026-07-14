@@ -2169,7 +2169,7 @@ def obfuscate(
         f"PX:{'ON' if use_anti_proxy else 'OFF'} "
         f"HT:{'ON' if use_anti_httptoolkit else 'OFF'} "
         f"DC:{'ON' if use_anti_pydc else 'OFF'} "
-        f"PY:{py_ver} BVM:v8"
+        f"PY:{py_ver} BVM:v1"
     )
 
     header_lines = [
