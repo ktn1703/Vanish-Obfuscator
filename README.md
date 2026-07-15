@@ -22,6 +22,7 @@
 **Version:** 1.0  
 **Status:** Public Release (Outdated)  
 **GitHub:** [github.com/ktn1703/Vanish-Obfuscator](https://github.com/ktn1703/Vanish-Obfuscator)
+**Discord:** [ktn1703](https://discord.com/users/1234144932176855040) or [ktn0755](https://discord.com/users/1524999162871943248)
 
 ---
 
