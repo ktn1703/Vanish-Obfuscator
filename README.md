@@ -201,26 +201,26 @@ When you run Vanish, your output file will contain:
 
 ```
 ╔══════════════════════════════════════════════════════╗
-║  ALWAYS ON                                         ║
-║  ├── 5-Layer AES-GCM + ChaCha20 + XOR + Shuffle   ║
-║  ├── HKDF-SHA256 Key Derivation                   ║
-║  ├── BVM v8 Poly-Opcode Engine                     ║
-║  ├── MBA Integer Obfuscation                       ║
-║  ├── Multi-Scheme String Encryption                ║
-║  └── Tamper-Burn Integrity Guard                   ║
-║                                                    ║
-║  CONFIGURABLE (all ON by default)                  ║
-║  ├── Anti-Debug Detection                          ║
-║  ├── Anti-Hook / Anti-Import                       ║
-║  ├── Anti-Frame / Stack Inspection                 ║
-║  ├── Anti-VM / Sandbox Evasion                     ║
-║  ├── Anti-Proxy / MITM Detection                   ║
-║  ├── Anti-HTTP Toolkit                             ║
-║  ├── Anti-Decompiler Crash (pycdc)                 ║
-║  ├── Junk Code Injection (14-22 dead functions)    ║
-║  ├── Control Flow Flattening                       ║
-║  ├── Hardware Binding (optional)                   ║
-║  └── Python Version Lock (optional)                ║
+║  ALWAYS ON                                           ║
+║  ├── 5-Layer AES-GCM + ChaCha20 + XOR + Shuffle      ║
+║  ├── HKDF-SHA256 Key Derivation                      ║
+║  ├── BVM v8 Poly-Opcode Engine                       ║
+║  ├── MBA Integer Obfuscation                         ║
+║  ├── Multi-Scheme String Encryption                  ║
+║  └── Tamper-Burn Integrity Guard                     ║
+║                                                      ║
+║  CONFIGURABLE (all ON by default)                    ║
+║  ├── Anti-Debug Detection                            ║
+║  ├── Anti-Hook / Anti-Import                         ║
+║  ├── Anti-Frame / Stack Inspection                   ║
+║  ├── Anti-VM / Sandbox Evasion                       ║
+║  ├── Anti-Proxy / MITM Detection                     ║
+║  ├── Anti-HTTP Toolkit                               ║
+║  ├── Anti-Decompiler Crash (pycdc)                   ║
+║  ├── Junk Code Injection (14-22 dead functions)      ║
+║  ├── Control Flow Flattening                         ║
+║  ├── Hardware Binding (optional)                     ║
+║  └── Python Version Lock (optional)                  ║
 ╚══════════════════════════════════════════════════════╝
 ```
 
